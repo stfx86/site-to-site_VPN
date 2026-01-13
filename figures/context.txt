@@ -70,3 +70,9 @@ ping to client2 from clinet1,
 21{
 ping to client1 from clinet2,
 }
+22{
+static router in pfsense   }
+23{
+static router in pfsense2   }
+
+}
