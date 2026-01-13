@@ -1,0 +1,72 @@
+1{
+pfsense boot screen pfsense boot screen , showing the diffrenet interfaces , wan , lan , opt1 , each with thier IPs with , showing the diffrenet interfaces , wan , lan , opt1 , each with thier IPs
+
+}
+2{
+pfsense2 boot screen , showing the diffrenet interfaces , wan , lan , opt1 , each with thier IPs
+}
+
+3{
+picture of the dffrent vms in vbox , pfsense , pfsense2, antiX , antix2,
+}
+4{
+virtualbox_nat_network_settings
+}
+5{
+pfsense_virtualbox_adapters
+}
+6{
+client vm network adapater
+}
+7{
+pfsense dash bord
+}
+8{
+wan rules for pfsense,
+}
+9{
+lan rules for pfsense
+}
+10{
+opt1 rules for pfsense
+}
+11{
+wan rules for pfsense2,
+}
+12{
+lan rules for pfsense2
+}
+13{
+opt1 rules for pfsense2
+}
+14{
+pfsense,
+"/vpn/wireguard/tunnels",
+the wireguard tunnel with its public key ,
+also showing the other peer public key and its endpoint as dynamic ,
+}
+15{
+in pfsense
+"status/wireguard"}
+16{
+"pfsense2",
+"/vpn/wireguard/tunnels",
+the wireguard tunnel with its public key ,
+also showing the other peer public key and its endpoint as dynamic ,
+}
+17{
+in pfsense2
+"status/wireguard"}
+18{
+"ip a" command output, in clinet1 behid pfsense
+}
+19{
+"ip a" command output, in clinet2 behid pfsense2
+}
+20{
+ping to client2 from clinet1,
+
+}
+21{
+ping to client1 from clinet2,
+}
